@@ -1,0 +1,77 @@
+{
+  "identifier" : "410C2697",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "0C9217F2",
+      "localizations" : [
+
+      ],
+      "name" : "AntiSpy Subscription Group",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.9",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "352E1CA8",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Monthly Subscription",
+              "displayName" : "Basic Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.antispy.month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Basic Plan",
+          "subscriptionGroupID" : "0C9217F2",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "3BA67A0F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Yearly Subscription",
+              "displayName" : "Premium Plan",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.antispy.year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Premium Plan",
+          "subscriptionGroupID" : "0C9217F2",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
